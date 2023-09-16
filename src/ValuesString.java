@@ -14,7 +14,7 @@ public class ValuesString {
         valueReponseNumber.put("6", "6");
         valueReponseNumber.put("7", "7");
         valueReponseNumber.put("8", "8");
-        valueReponseNumber.put("9", "9");
+        valueReponseNumber.put("9","9");
         valueReponseNumber.put("10", "10");
         valueReponseNumber.put("J", "11");
         valueReponseNumber.put("Q", "12");
