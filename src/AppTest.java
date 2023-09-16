@@ -7,6 +7,6 @@ public class AppTest {
     @Test
     public void testGetString() {
         App app = new App();
-        assertEquals(13, app.converteCartaParaInt("k"));
+        assertEquals(1, app.converteCartaParaInt("a"));
     }
 }
