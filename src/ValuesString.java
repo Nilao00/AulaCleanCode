@@ -17,8 +17,8 @@ public class ValuesString {
         valueReponseNumber.put("9", new String("9"));
         valueReponseNumber.put("10", new String("10"));
         valueReponseNumber.put("J", new String("11"));
-        valueReponseNumber.put("Q", new String("q"));
-        valueReponseNumber.put("K", new String("k"));
+        valueReponseNumber.put("Q", new String("12"));
+        valueReponseNumber.put("K", new String("13"));
 
         if (valueReponseNumber.containsKey(value)) {
             return Integer.parseInt(valueReponseNumber.get(value));

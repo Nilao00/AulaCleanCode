@@ -4,9 +4,9 @@ import org.junit.Test;
 
 public class AppTest {
 
-   @Test
-   public void testGetString() {
+    @Test
+    public void testGetString() {
         App app = new App();
-        assertEquals(1, app.converteCartaParaInt("a"));
+        assertEquals(13, app.converteCartaParaInt("k"));
     }
 }
